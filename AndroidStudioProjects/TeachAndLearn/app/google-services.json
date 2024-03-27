@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "635920034087",
+    "firebase_url": "https://teachandlearn-cac9e-default-rtdb.firebaseio.com",
+    "project_id": "teachandlearn-cac9e",
+    "storage_bucket": "teachandlearn-cac9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635920034087:android:a4cd4d59763f0173c4a102",
+        "android_client_info": {
+          "package_name": "com.example.teachandlearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGp73y5ydg8YgtyUlQoPbZsYBeRElID4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TeachAndLearn</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="register">REGISTER</string>
+    <string name="fullname">FULLNAME</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="btnRegister">REGISTER</string>
+    <string name="click_to_login">Click Here To Login</string>
+    <string name="login">LOGIN</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="click_to_register">Click Here To Register</string>
+    <string name="logut">LogOut</string>
+    <string name="title_activity_teacher">TeacherActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="quiz_results">Correct Answers: %2$d out of %2$d</string>
+
+
+
+    <string name="Back">Back</string>
+</resources>
