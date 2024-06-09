@@ -1,5 +1,4 @@
 package com.example.chatapp.activities;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.graphics.Bitmap;

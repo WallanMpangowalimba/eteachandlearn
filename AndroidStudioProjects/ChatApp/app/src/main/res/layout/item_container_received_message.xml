@@ -18,6 +18,7 @@
         app:riv_oval="true"/>
 
 
+
     <TextView
         android:id="@+id/textMessage"
         android:layout_width="0dp"
